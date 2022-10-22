@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Time-nie
-- 👀 I’m interested in deep learning
+- 👀 I’m interested in Deep-Learning
 - 🌱 I’m currently learning at Nankai University.
 - 💞️ I’m looking to collaborate on NLP
 - 📫 762174555@qq.com or 2012307@mail.nankai.edu.cn
