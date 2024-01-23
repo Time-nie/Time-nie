@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Time-nie
-- 👀 I’m interested in Deep-Learning
-- 🌱 I’m currently learning at Nankai University.
-- 💞️ I’m looking to collaborate on DL or LLM
+- 👀 I’m interested in LLM Agent
+- 🌱 I’m currently learning at Nankai University（HLT Lab）and Tsinghua University（HCI Lab） 
+- 💞️ I’m looking to collaborate on Digital avatar application
 - 📫 762174555@qq.com or 2012307@mail.nankai.edu.cn
 
 <!---
