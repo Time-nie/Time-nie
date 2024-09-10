@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Time-nie
 - 👀 I’m interested in LLM Agent
-- 🌱 I’m currently learning at Nankai University（HLT Lab）and Tsinghua University（HCI Lab） 
+- 🌱 I’m currently learning at Tsinghua University（HCI Lab） 
 - 💞️ I’m looking to collaborate on Digital avatar application
-- 📫 762174555@qq.com or 2012307@mail.nankai.edu.cn
+- 📫 nzq24@mails.tsinghua.edu.cn
 
 <!---
 Time-nie/Time-nie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
